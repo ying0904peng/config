@@ -1,3 +1,1 @@
-env: test
-userName: root
-password: root
+name: application-test.yml
