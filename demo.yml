@@ -1,3 +1,5 @@
 from4 : demo.yml
 update : "来自一个修改"
 insert : "插入一条数据"
+select : "查询数据"
+delete : "删除数据"
